@@ -1,0 +1,14 @@
+C:\Users\Bordz\Desktop\C#\C#_projects\TEST\TEST\bin\Debug\net8.0\TEST.exe
+C:\Users\Bordz\Desktop\C#\C#_projects\TEST\TEST\bin\Debug\net8.0\TEST.deps.json
+C:\Users\Bordz\Desktop\C#\C#_projects\TEST\TEST\bin\Debug\net8.0\TEST.runtimeconfig.json
+C:\Users\Bordz\Desktop\C#\C#_projects\TEST\TEST\bin\Debug\net8.0\TEST.dll
+C:\Users\Bordz\Desktop\C#\C#_projects\TEST\TEST\bin\Debug\net8.0\TEST.pdb
+C:\Users\Bordz\Desktop\C#\C#_projects\TEST\TEST\obj\Debug\net8.0\TEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bordz\Desktop\C#\C#_projects\TEST\TEST\obj\Debug\net8.0\TEST.AssemblyInfoInputs.cache
+C:\Users\Bordz\Desktop\C#\C#_projects\TEST\TEST\obj\Debug\net8.0\TEST.AssemblyInfo.cs
+C:\Users\Bordz\Desktop\C#\C#_projects\TEST\TEST\obj\Debug\net8.0\TEST.csproj.CoreCompileInputs.cache
+C:\Users\Bordz\Desktop\C#\C#_projects\TEST\TEST\obj\Debug\net8.0\TEST.dll
+C:\Users\Bordz\Desktop\C#\C#_projects\TEST\TEST\obj\Debug\net8.0\refint\TEST.dll
+C:\Users\Bordz\Desktop\C#\C#_projects\TEST\TEST\obj\Debug\net8.0\TEST.pdb
+C:\Users\Bordz\Desktop\C#\C#_projects\TEST\TEST\obj\Debug\net8.0\TEST.genruntimeconfig.cache
+C:\Users\Bordz\Desktop\C#\C#_projects\TEST\TEST\obj\Debug\net8.0\ref\TEST.dll

@@ -1,0 +1,14 @@
+C:\Users\Bordz\Desktop\C#\C#_projects\RealAssignemnt\RealAssignemnt\bin\Debug\net8.0\RealAssignemnt.exe
+C:\Users\Bordz\Desktop\C#\C#_projects\RealAssignemnt\RealAssignemnt\bin\Debug\net8.0\RealAssignemnt.deps.json
+C:\Users\Bordz\Desktop\C#\C#_projects\RealAssignemnt\RealAssignemnt\bin\Debug\net8.0\RealAssignemnt.runtimeconfig.json
+C:\Users\Bordz\Desktop\C#\C#_projects\RealAssignemnt\RealAssignemnt\bin\Debug\net8.0\RealAssignemnt.dll
+C:\Users\Bordz\Desktop\C#\C#_projects\RealAssignemnt\RealAssignemnt\bin\Debug\net8.0\RealAssignemnt.pdb
+C:\Users\Bordz\Desktop\C#\C#_projects\RealAssignemnt\RealAssignemnt\obj\Debug\net8.0\RealAssignemnt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bordz\Desktop\C#\C#_projects\RealAssignemnt\RealAssignemnt\obj\Debug\net8.0\RealAssignemnt.AssemblyInfoInputs.cache
+C:\Users\Bordz\Desktop\C#\C#_projects\RealAssignemnt\RealAssignemnt\obj\Debug\net8.0\RealAssignemnt.AssemblyInfo.cs
+C:\Users\Bordz\Desktop\C#\C#_projects\RealAssignemnt\RealAssignemnt\obj\Debug\net8.0\RealAssignemnt.csproj.CoreCompileInputs.cache
+C:\Users\Bordz\Desktop\C#\C#_projects\RealAssignemnt\RealAssignemnt\obj\Debug\net8.0\RealAssignemnt.dll
+C:\Users\Bordz\Desktop\C#\C#_projects\RealAssignemnt\RealAssignemnt\obj\Debug\net8.0\refint\RealAssignemnt.dll
+C:\Users\Bordz\Desktop\C#\C#_projects\RealAssignemnt\RealAssignemnt\obj\Debug\net8.0\RealAssignemnt.pdb
+C:\Users\Bordz\Desktop\C#\C#_projects\RealAssignemnt\RealAssignemnt\obj\Debug\net8.0\RealAssignemnt.genruntimeconfig.cache
+C:\Users\Bordz\Desktop\C#\C#_projects\RealAssignemnt\RealAssignemnt\obj\Debug\net8.0\ref\RealAssignemnt.dll

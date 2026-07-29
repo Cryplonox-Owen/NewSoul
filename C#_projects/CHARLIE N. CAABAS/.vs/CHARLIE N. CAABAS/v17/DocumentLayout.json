@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bordz\\Desktop\\C#\\C#_projects\\CHARLIE N. CAABAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58F609C1-C7FC-4EA6-BB08-CEFFB127F0E0}|CHARLIE N. CAABAS\\CHARLIE N. CAABAS.csproj|c:\\users\\bordz\\desktop\\c#\\c#_projects\\charlie n. caabas\\charlie n. caabas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{58F609C1-C7FC-4EA6-BB08-CEFFB127F0E0}|CHARLIE N. CAABAS\\CHARLIE N. CAABAS.csproj|solutionrelative:charlie n. caabas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Bordz\\Desktop\\C#\\C#_projects\\CHARLIE N. CAABAS\\CHARLIE N. CAABAS\\Program.cs",
+              "RelativeDocumentMoniker": "CHARLIE N. CAABAS\\Program.cs",
+              "ToolTip": "C:\\Users\\Bordz\\Desktop\\C#\\C#_projects\\CHARLIE N. CAABAS\\CHARLIE N. CAABAS\\Program.cs",
+              "RelativeToolTip": "CHARLIE N. CAABAS\\Program.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAkwGwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-04T03:20:01.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\Bordz\Desktop\C#\C#_projects\Owen B. Garados\Owen B. Garados\bin\Debug\net8.0\Owen B. Garados.exe
+C:\Users\Bordz\Desktop\C#\C#_projects\Owen B. Garados\Owen B. Garados\bin\Debug\net8.0\Owen B. Garados.deps.json
+C:\Users\Bordz\Desktop\C#\C#_projects\Owen B. Garados\Owen B. Garados\bin\Debug\net8.0\Owen B. Garados.runtimeconfig.json
+C:\Users\Bordz\Desktop\C#\C#_projects\Owen B. Garados\Owen B. Garados\bin\Debug\net8.0\Owen B. Garados.dll
+C:\Users\Bordz\Desktop\C#\C#_projects\Owen B. Garados\Owen B. Garados\bin\Debug\net8.0\Owen B. Garados.pdb
+C:\Users\Bordz\Desktop\C#\C#_projects\Owen B. Garados\Owen B. Garados\obj\Debug\net8.0\Owen B. Garados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bordz\Desktop\C#\C#_projects\Owen B. Garados\Owen B. Garados\obj\Debug\net8.0\Owen B. Garados.AssemblyInfoInputs.cache
+C:\Users\Bordz\Desktop\C#\C#_projects\Owen B. Garados\Owen B. Garados\obj\Debug\net8.0\Owen B. Garados.AssemblyInfo.cs
+C:\Users\Bordz\Desktop\C#\C#_projects\Owen B. Garados\Owen B. Garados\obj\Debug\net8.0\Owen B. Garados.csproj.CoreCompileInputs.cache
+C:\Users\Bordz\Desktop\C#\C#_projects\Owen B. Garados\Owen B. Garados\obj\Debug\net8.0\Owen B. Garados.dll
+C:\Users\Bordz\Desktop\C#\C#_projects\Owen B. Garados\Owen B. Garados\obj\Debug\net8.0\refint\Owen B. Garados.dll
+C:\Users\Bordz\Desktop\C#\C#_projects\Owen B. Garados\Owen B. Garados\obj\Debug\net8.0\Owen B. Garados.pdb
+C:\Users\Bordz\Desktop\C#\C#_projects\Owen B. Garados\Owen B. Garados\obj\Debug\net8.0\Owen B. Garados.genruntimeconfig.cache
+C:\Users\Bordz\Desktop\C#\C#_projects\Owen B. Garados\Owen B. Garados\obj\Debug\net8.0\ref\Owen B. Garados.dll

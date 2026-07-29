@@ -1,0 +1,14 @@
+C:\Users\Bordz\Desktop\C#\C#_projects\NewPrototype\NewPrototype\bin\Debug\net8.0\NewPrototype.exe
+C:\Users\Bordz\Desktop\C#\C#_projects\NewPrototype\NewPrototype\bin\Debug\net8.0\NewPrototype.deps.json
+C:\Users\Bordz\Desktop\C#\C#_projects\NewPrototype\NewPrototype\bin\Debug\net8.0\NewPrototype.runtimeconfig.json
+C:\Users\Bordz\Desktop\C#\C#_projects\NewPrototype\NewPrototype\bin\Debug\net8.0\NewPrototype.dll
+C:\Users\Bordz\Desktop\C#\C#_projects\NewPrototype\NewPrototype\bin\Debug\net8.0\NewPrototype.pdb
+C:\Users\Bordz\Desktop\C#\C#_projects\NewPrototype\NewPrototype\obj\Debug\net8.0\NewPrototype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bordz\Desktop\C#\C#_projects\NewPrototype\NewPrototype\obj\Debug\net8.0\NewPrototype.AssemblyInfoInputs.cache
+C:\Users\Bordz\Desktop\C#\C#_projects\NewPrototype\NewPrototype\obj\Debug\net8.0\NewPrototype.AssemblyInfo.cs
+C:\Users\Bordz\Desktop\C#\C#_projects\NewPrototype\NewPrototype\obj\Debug\net8.0\NewPrototype.csproj.CoreCompileInputs.cache
+C:\Users\Bordz\Desktop\C#\C#_projects\NewPrototype\NewPrototype\obj\Debug\net8.0\NewPrototype.dll
+C:\Users\Bordz\Desktop\C#\C#_projects\NewPrototype\NewPrototype\obj\Debug\net8.0\refint\NewPrototype.dll
+C:\Users\Bordz\Desktop\C#\C#_projects\NewPrototype\NewPrototype\obj\Debug\net8.0\NewPrototype.pdb
+C:\Users\Bordz\Desktop\C#\C#_projects\NewPrototype\NewPrototype\obj\Debug\net8.0\NewPrototype.genruntimeconfig.cache
+C:\Users\Bordz\Desktop\C#\C#_projects\NewPrototype\NewPrototype\obj\Debug\net8.0\ref\NewPrototype.dll

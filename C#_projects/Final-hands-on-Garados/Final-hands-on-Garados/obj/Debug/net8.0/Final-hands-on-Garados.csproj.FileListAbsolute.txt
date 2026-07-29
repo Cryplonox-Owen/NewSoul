@@ -1,4 +1,0 @@
-C:\Users\Bordz\Desktop\C#\C#_projects\Final-hands-on-Garados\Final-hands-on-Garados\obj\Debug\net8.0\Final-hands-on-Garados.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Bordz\Desktop\C#\C#_projects\Final-hands-on-Garados\Final-hands-on-Garados\obj\Debug\net8.0\Final-hands-on-Garados.AssemblyInfoInputs.cache
-C:\Users\Bordz\Desktop\C#\C#_projects\Final-hands-on-Garados\Final-hands-on-Garados\obj\Debug\net8.0\Final-hands-on-Garados.AssemblyInfo.cs
-C:\Users\Bordz\Desktop\C#\C#_projects\Final-hands-on-Garados\Final-hands-on-Garados\obj\Debug\net8.0\Final-hands-on-Garados.csproj.CoreCompileInputs.cache
